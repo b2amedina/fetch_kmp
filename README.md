@@ -12,3 +12,19 @@ This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+
+# Design
+1. This is a Kotlin multi-platform app supporting Android / iOS / Desktop
+2. Refactored the existing excercise from https://github.com/b2amedina/fetch
+3. Replaced dependency injection from Hilt to Koin
+4. NOTE: I just did a quick prototype and added the changes in a single commit
+
+## Android
+![android.png](docs/android.png)
+
+## iOS
+![ios.png](docs/ios.png)
+
+## Desktop
+![desktop.png](docs/desktop.png)
